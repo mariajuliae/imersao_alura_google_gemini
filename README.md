@@ -6,14 +6,6 @@ Este é um protótipo funcional de um sistema de agentes de Inteligência Artifi
 
 ---
 
-### 🎥 Demo Rápida (Dica de Ouro!)
-
-*(Aqui, grave um GIF curto da sua tela mostrando o terminal funcionando e coloque-o aqui. Isso é o que mais impressiona! Use ferramentas como "GIPHY CAPTURE" ou "LICEcap".)*
-
-`![Demo do Agente em Ação](link-para-seu-gif-aqui.gif)`
-
----
-
 ### 1. Arquitetura da Solução: Um Sistema de Dois Agentes
 
 A solução opera com dois agentes de IA distintos, cada um com uma responsabilidade clara, orquestrados em Python:
